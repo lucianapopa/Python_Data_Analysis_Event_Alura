@@ -58,7 +58,7 @@ The project focuses on **practical applications of Python for data analysis**, c
 ## 📂 Repository Structure
 ```
 📦 Python_Data_Analysis_Event_Alura
- ┣ 📁 data          → Public datasets used in the project (e.g., salaries.csv link)
+ ┣ 📁 data          → [salaries.csv](https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv)
  ┣ 📁 notebooks     → Google Colab notebooks with code and analysis
  ┣ 📁 images        → Charts and visualizations generated from the notebooks (coming soon)
  ┗ 📄 README.md     → Project documentation (this file)
