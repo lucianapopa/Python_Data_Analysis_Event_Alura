@@ -36,55 +36,56 @@ The project focuses on **practical applications of Python for data analysis**, c
 ---
 
 ## 🛠 Technologies & Libraries
-- **Python 3.x**
+- **Python 3.x** — Programming language used for data analysis
 - [Pandas](https://pandas.pydata.org/) — Data manipulation & analysis
 - [NumPy](https://numpy.org/) — Numerical computing
 - [Matplotlib](https://matplotlib.org/) — Data visualization
 - [Seaborn](https://seaborn.pydata.org/) — Statistical visualization
-- [Jupyter Notebook](https://jupyter.org/) — Interactive coding environment
+- [Google Colab](https://colab.research.google.com/) — Cloud-based interactive environment for running Python notebooks
 
 ---
 
 ## 📂 Repository Structure
 ```
-📦 data-analysis-with-python-alura
- ┣ 📁 data         → Datasets used in the examples
- ┣ 📁 notebooks    → Jupyter Notebooks with code and analysis
- ┣ 📄 requirements.txt → Project dependencies
- ┗ 📄 README.md    → This file
+📦 Python_Data_Analysis_Event_Alura
+ ┣ 📁 data          → Public datasets used in the project (e.g., salaries.csv link)
+ ┣ 📁 notebooks     → Google Colab notebooks with code and analysis
+ ┣ 📁 images        → Charts and visualizations generated from the notebooks (coming soon)
+ ┗ 📄 README.md     → Project documentation (this file)
 ```
 
 ---
 
-## 💡 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/lucianapopa/Python_Data_Analysis_Event_Alura.git
-   ```
-2. Navigate to the folder:
-   ```bash
-   cd Python_Data_Analysis_Event_Alura
-   ```
-3. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
+## 💡 How to Run (Google Colab)
+
+You can run this project directly in **Google Colab** — no installation required.
+
+1. **Open the notebook in Google Colab** by clicking the badge below:  
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_NOTEBOOK_LINK_HERE)
+
+2. *(Optional)* **Mount Google Drive** if your notebook needs to read/write files:  
+   ```python
+   from google.colab import drive
+   drive.mount('/content/drive')
    ```
 
----
+3. **Dataset used in this project**:  
+   The dataset is publicly available at:  
+   [salaries.csv](https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv)  
+   You can load it directly in your notebook using:
+   ```python
+   import pandas as pd
+   url = "https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv"
+   df = pd.read_csv(url)
+   df.head()
+   ```
 
-## 📊 Example Output
-<p align="center">
-  <img src="https://i.imgur.com/tgpOvlM.png" alt="Data Visualization Example" width="600">
-</p>
+4. **Run the cells step-by-step** following the notebook instructions.
 
 ---
 
 ## 👩‍💻 About Me
-Hi! I'm **Luciana Popa**, a Master's student in Data Analytics at **University of Niagara Falls Canada**, passionate about **data analytics and visualization**.  
+Hi! I'm **Luciana Popa**, a Master's student in Data Analytics at **University of Niagara Falls Canada**, curious about **data analytics and visualization**.  
 - 💼 Background in **Finance**
 - 📊 Knowledge in **Python, SQL, Tableau, Power BI, Excel**  
 - 🌎 Based in **Ontario, Canada**  
