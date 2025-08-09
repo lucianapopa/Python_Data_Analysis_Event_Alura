@@ -106,5 +106,5 @@ Hi! I'm **Luciana Popa**, a Master's student in Data Analytics at **University o
 ---
 
 <p align="center">
-  Made with 💙 during the <a href="https://guiadeti.com.br/noticias/evento-de-analise-de-dados-com-python-gratuito-da-alura/">Data Analysis with Python — Alura Event</a>
+  Made with 💙 during the <a href="https://guiadeti.com.br/noticias/evento-de-analise-de-dados-com-python-gratuito-da-alura/">Python Data Analysis Event - Alura</a>
 </p>
