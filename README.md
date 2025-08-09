@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/S7zUUlc.png" alt="Python Data Analysis Event — Alura" width="800" height="200">
+  <img src="https://i.imgur.com/at2yxOJ.png" alt="Python Data Analysis Event — Alura" width="800" height="200">
 </p>
 
 <h1 align="center">📊 Python Data Analysis Event — Alura</h1>
