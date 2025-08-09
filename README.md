@@ -12,10 +12,16 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/github/last-commit/your-username/data-analysis-with-python-alura?color=green&label=Last%20Update" alt="Last Update">
+  <a href="https://colab.research.google.com/github/lucianapopa/Python_Data_Analysis_Event_Alura/blob/main/notebooks/NAME_OF_NOTEBOOK.ipynb">
+    <img src="https://img.shields.io/badge/Google%20Colab-Open%20Notebook-orange?logo=googlecolab&logoColor=white" alt="Open in Colab">
+  </a>
+  <img src="https://img.shields.io/github/last-commit/lucianapopa/Python_Data_Analysis_Event_Alura?label=Last%20update&color=brightgreen" alt="Last update">
+  <a href="https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv">
+    <img src="https://img.shields.io/badge/Dataset-salaries.csv-brightgreen" alt="Dataset link">
+  </a>
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status">
 </p>
+
 
 ---
 
