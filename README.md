@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/xOUAoGb.png" alt="Python Data Analysis Event — Alura" width="800" height="200">
+  <img src="https://i.imgur.com/xOUAoGb.png" alt="Python Data Analysis Event - Alura" width="800" height="200">
 </p>
 
-<h1 align="center">📊 Python Data Analysis Event — Alura</h1>
+<h1 align="center">📊 Python Data Analysis Event - Alura</h1>
 
 <p align="center">
   <em>Exploring Python for data cleaning, visualization, and insights generation.</em>
