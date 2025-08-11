@@ -104,7 +104,9 @@ df.head()
 
 🖼 **Screenshots / Results:**
 
->>>> Images to be added soon.
+<img width="677" height="450" alt="newplot (4)" src="https://github.com/user-attachments/assets/07ffe00b-6abf-4d29-a38a-345db33a14de" />
+
+---
 
 ## 👩‍💻 About Me
 Hi! I'm **Luciana Popa**, a Master's student in Data Analytics at **University of Niagara Falls Canada**, curious about **data analytics and visualization**.  
