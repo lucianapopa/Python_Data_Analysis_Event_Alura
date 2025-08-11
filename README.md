@@ -30,8 +30,8 @@
 ---
 
 ## 🚀 Overview
-This repository contains the code, notes, and datasets used during the **Data Analysis with Python** event hosted by [Alura](https://www.alura.com.br/).  
-The project focuses on **practical applications of Python for data analysis**, covering data cleaning, transformation, and visualization techniques.
+This repository contains my work from the **Data Analysis with Python** event by [Alura](https://www.alura.com.br/).  
+I explored **data cleaning**, **transformations**, and **visualizations**, and wrapped up with a small **Streamlit** dashboard using the final processed dataset.
 
 ---
 
@@ -46,21 +46,23 @@ The project focuses on **practical applications of Python for data analysis**, c
 ---
 
 ## 🛠 Technologies & Libraries
-- **Python 3.x** — Programming language used for data analysis
-- [Pandas](https://pandas.pydata.org/) — Data manipulation & analysis
-- [NumPy](https://numpy.org/) — Numerical computing
-- [Matplotlib](https://matplotlib.org/) — Data visualization
-- [Seaborn](https://seaborn.pydata.org/) — Statistical visualization
-- [Google Colab](https://colab.research.google.com/) — Cloud-based interactive environment for running Python notebooks
+- **Python 3.11+**
+- **Pandas**, **NumPy**
+- **Plotly Express** (interactive visuals)
+- **Streamlit** (dashboard)
+- **Google Colab** (notebooks)
+- (Extras used as needed: `pycountry`, etc.)
 
 ---
 
 ## 📂 Repository Structure
 📦 Python_Data_Analysis_Event_Alura  
- ┣ 📁 data → [salaries.csv](https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv) — Public dataset used in the project  
- ┣ 📁 notebooks → Google Colab notebooks with code and analysis  
- ┣ 📁 images → Charts and visualizations generated from the notebooks (coming soon)  
- ┗ 📄 README.md → Project documentation (this file)
+├─ app.py # Streamlit app
+├─ requirements.txt # Exact versions for reproducibility
+├─ data/
+│ └─ final_dataset.csv # Processed dataset used by the app
+└─ notebooks/
+└─ Classes_Alura.ipynb
 
 ---
 
@@ -78,28 +80,38 @@ You can run this project directly in **Google Colab** — no installation requir
    ```
 
 3. **Dataset used in this project**:  
-   The dataset is publicly available at:  
-   [salaries.csv](https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv)  
-   You can load it directly in your notebook using:
-   ```python
-   import pandas as pd
-   url = "https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv"
-   df = pd.read_csv(url)
-   df.head()
-   ```
+Source: Data Jobs — salaries.csv
+
+Processed file used by the app: data/final_dataset.csv
+Please review the original license/terms of use from the source.
+
+Load directly in Python:
+
+import pandas as pd
+url = "https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv"
+df = pd.read_csv(url)
+df.head()
 
 4. **Run the cells step-by-step** following the notebook instructions.
 
 ---
 
+🖼 **Screenshots / Results:**
+
+>>>> Images to be added soon.
+
 ## 👩‍💻 About Me
 Hi! I'm **Luciana Popa**, a Master's student in Data Analytics at **University of Niagara Falls Canada**, curious about **data analytics and visualization**.  
-- 💼 Background in **Finance**
-- 📊 Knowledge in **Python, SQL, Tableau, Power BI, Excel**  
-- 🌎 Based in **Ontario, Canada**  
+- Background: **Finance**
+- Tools: **Python, SQL, Tableau, Power BI, Excel**
+- Location: **Ontario, Canada**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luciana-popa/) | [GitHub](https://github.com/lucianapopa)
 
 ---
+
+🙏 Acknowledgments
+- **Alura** for the event and learning materials.
+- Dataset by **guilhermeonrails**/data-jobs.
 
 ## 📌 Notes
 - This repository is **for educational purposes** only.
