@@ -104,7 +104,21 @@ df.head()
 
 🖼 **Screenshots / Results:**
 
+-- Dashboard Overview:
+
+[Salary Analysis Dashboard in the Data Field](https://python-data-analysis-event-alura.streamlit.app/)
+
 <img width="701" height="869" alt="Captura de tela 2025-08-11 141129" src="https://github.com/user-attachments/assets/06e5eaee-cc7c-48c4-b658-c047af7e3755" />
+
+-- Quick Dashboard Insights:
+
+When analysing the overall available information regarding salary and work information in Data field, some insighfull aspects can be observed if analysing the pandemic to the current period:
+
+>> 1. First aspects that can be highlighted are the General Metrics, which shows that during pandemic (2021-2022) the average salary and maximum salary were far lower than during the most recent period (2024-2025). The total amount of data records increased steadely showing how the data field gained new workers during a 5-6 period. Also, it is possible to see that the most common job position also changed during this period, with Data Scientist being more common during pandemic, and Software Engineer on most recent data. In addition, it is interesting to highlight that during the whole period available (2020-2025), the most commom job position is Data Scientist.
+
+>> 2. Comparing the work types it is possible to see that the majority of jobs were Remote (51.9%) or Hybrid (32%) during the pandemic period of 2020-2021, while in the most recent period (2024-2025) the work type pattern changed significantly, with Remote and Hybrid representing less than 20%, while On-site jobs revealed how representative it is right now.
+
+>> 3. Another interesting observation that can be made is that the average Data Scientist salary kept strong in North America during the pandemic, while gained traction in other coutnries such as South America, and more parts of Europe, Africa and Oceany.
 
 ---
 
