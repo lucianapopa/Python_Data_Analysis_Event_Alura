@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/Status-Concluded-brightgreen" alt="Status: Concluded">
 
   <img src="https://img.shields.io/github/last-commit/lucianapopa/Python_Data_Analysis_Event_Alura?label=Last%20update&color=brightgreen" alt="Last update">
+</p>
+
 
 ---
 
@@ -87,15 +89,18 @@ You can run this project directly in **Google Colab** — no installation requir
 3. **Dataset used in this project**:  
 Source: Data Jobs — salaries.csv
 
-Processed file used by the app: data/final_dataset.csv
+Processed file used by the app: final-dataset.csv
 Please review the original license/terms of use from the source.
 
-Load directly in Python:
+**Load directly in Python:**
+
+python
 
 import pandas as pd
 url = "https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv"
 df = pd.read_csv(url)
 df.head()
+
 
 4. **Run the cells step-by-step** following the notebook instructions.
 
@@ -103,7 +108,7 @@ df.head()
 
 ## 📓 Notebook Highlights
 
-- In this section I include a few key visuals produced in Google Colab analysing the data for the whole period (2020-2025) before building the Streamlit dashboard on VS Code. The values shown are **nominal USD**.
+- In this section I include a few key visuals produced in Google Colab analyzing the data for the whole period (2020-2025) before building the Streamlit dashboard on VS Code. The values shown are **nominal USD**.
 
 **_1. Avg. Data Scientist Wage by Country_**
 
@@ -135,7 +140,7 @@ df.head()
 
 **💭 Dashboard Insights**
 
-- When analysing the overall available information regarding salary and work information in data field, some insightful trends can be observed if analysing the pandemic (2020-2021) to the most recent period (2024-2025):
+- When analyzing the overall available information regarding salary and work information in data field, some insightful trends can be observed if analyzing the pandemic (2020-2021) to the most recent period (2024-2025):
 
 **_1. General Metrics (Annual Salary, USD)_**
 
@@ -145,7 +150,7 @@ df.head()
   
   - The most common job position **shifts** from **Data Scientist** (2020–2021) to **Software Engineer** (2024–2025).
   
-  - The Max Salary number must be cautiously interpreted since it can be driven by a single extreme value (outlier).
+  - The Max Salary number **should be interpreted cautiously** since it can be driven by a single extreme value (outlier).
 
 > _2020-2021:_
   
