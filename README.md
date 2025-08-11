@@ -114,7 +114,7 @@ df.head()
 
 When analysing the overall available information regarding salary and work information in Data field, some insighfull aspects can be observed if analysing the pandemic to the most recent period:
 
-* 1. First aspects that can be highlighted are the General Metrics, which shows that during pandemic (2021-2022) the average salary and maximum salary were far lower than during the most recent period (2024-2025). The total amount of data records increased steadely showing how the data field gained new workers during a 5-6 period. Also, it is possible to see that the most common job position also changed during this period, with Data Scientist being more common during pandemic, and Software Engineer on most recent data. In addition, it is interesting to highlight that during the whole period available (2020-2025), the most commom job position is Data Scientist.
+* 1. First aspects that can be highlighted are the General Metrics, which shows that during pandemic (2020-2021) the average salary and maximum salary were far lower than during the most recent period (2024-2025). The total amount of data records increased steadely showing how the data field gained new workers during a 5-6 period. Also, it is possible to see that the most common job position also changed during this period, with Data Scientist being more common during pandemic, and Software Engineer on most recent data. In addition, it is interesting to highlight that during the whole period available (2020-2025), the most commom job position is Data Scientist.
 
   > 2020-2021:
     <img width="1613" height="187" alt="2020-2021" src="https://github.com/user-attachments/assets/38d2c9b2-4055-4642-90fe-99414b4cd020" />
@@ -130,7 +130,7 @@ When analysing the overall available information regarding salary and work infor
     > 2024-2025:
       <img width="1801" height="811" alt="2024_2025" src="https://github.com/user-attachments/assets/16b41f79-95fb-45dc-b8b1-4b25187c4f69" />
 
-* 3. Another interesting observation that can be made from the screenshots above is that the average Data Scientist salary kept strong in North America during the pandemic, while gained traction in other coutnries such as South America, and more parts of Europe, Africa and Oceany.
+* 3. Another interesting observation that can be made from the screenshots above is that the average Data Scientist salary kept strong in North America during and after the pandemic, while gained traction in other countries such as South America, and more parts of Europe, Africa and Oceany on post-pandemic period. This information shows how the Data job roles are becoming more relevant year by year.
 
 ---
 
@@ -154,5 +154,5 @@ Hi! I'm **Luciana Popa**, a Master's student in Data Analytics at **University o
 ---
 
 <p align="center">
-  Made with 💙 during the <a href="https://www.alura.com.br/imersao-dados-python">Python Data Analysis Event - Alura</a>
+  Made with 💙 by Luciana Popa during the <a href="https://www.alura.com.br/imersao-dados-python">Python Data Analysis Event - Alura</a>
 </p>
