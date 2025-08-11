@@ -58,10 +58,15 @@ I explored **data cleaning**, **transformations**, and **visualizations**, and w
 ## 📂 Repository Structure
 📦 Python_Data_Analysis_Event_Alura  
 ├─ app.py # Streamlit app
+
 ├─ requirements.txt # Exact versions for reproducibility
+
 ├─ data/
+
 │ └─ final_dataset.csv # Processed dataset used by the app
+
 └─ notebooks/
+
 └─ Classes_Alura.ipynb
 
 ---
