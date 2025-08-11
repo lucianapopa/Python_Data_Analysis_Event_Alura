@@ -102,35 +102,52 @@ df.head()
 
 ---
 
-🖼 **Screenshots / Results:**
+🖼 ** Dashboard and Insights:**
 
--- Dashboard Overview:
+  -- Overview:
 
-[Salary Analysis Dashboard in the Data Field](https://python-data-analysis-event-alura.streamlit.app/)
+  [Salary Analysis Dashboard in the Data Field](https://python-data-analysis-event-alura.streamlit.app/)
+       
+  <img width="701" height="869" alt="Captura de tela 2025-08-11 141129" src="https://github.com/user-attachments/assets/06e5eaee-cc7c-48c4-b658-c047af7e3755" />
 
-<img width="701" height="869" alt="Captura de tela 2025-08-11 141129" src="https://github.com/user-attachments/assets/06e5eaee-cc7c-48c4-b658-c047af7e3755" />
 
--- Quick Dashboard Insights:
+-- Insights:
 
 When analysing the overall available information regarding salary and work information in Data field, some insighfull aspects can be observed if analysing the pandemic to the most recent period:
 
-* 1. First aspects that can be highlighted are the General Metrics, which shows that during pandemic (2020-2021) the average salary and maximum salary were far lower than during the most recent period (2024-2025). The total amount of data records increased steadely showing how the data field gained new workers during a 5-6 period. Also, it is possible to see that the most common job position also changed during this period, with Data Scientist being more common during pandemic, and Software Engineer on most recent data. In addition, it is interesting to highlight that during the whole period available (2020-2025), the most commom job position is Data Scientist.
+_* 1. General Metrics_
+
+     The General Metrics shows that during pandemic (2020-2021) the average salary and maximum salary were far lower than during the most recent period (2024-2025). The total amount of data records increased steadely showing how the data field gained new workers during a 5-6 year period. Also, it is possible to see that the most common job position changed during this period, with Data Scientist being more common during pandemic, and Software Engineer on most recent term. In addition, it is interesting to highlight that during the whole term available (2020-2025), the most commom job position is Data Scientist.
+
 
   > 2020-2021:
+  
     <img width="1613" height="187" alt="2020-2021" src="https://github.com/user-attachments/assets/38d2c9b2-4055-4642-90fe-99414b4cd020" />
 
   > 2024-2025:
+  
     <img width="1650" height="179" alt="2024-2025" src="https://github.com/user-attachments/assets/cb973148-2980-4478-ab0f-e80cc59f722d" />
 
-* 2. Comparing the work types it is possible to see that the majority of jobs were Remote (51.9%) or Hybrid (32%) during the pandemic period of 2020-2021, while in the most recent period (2024-2025) the work type pattern changed significantly, with Remote and Hybrid representing less than 20%, while On-site jobs revealed how representative it is right now.
+
+_* 2. Work Type_
+    Comparing the work types it is possible to see that the majority of jobs were Remote (51.9%) or Hybrid (32%) during the pandemic period of 2020-2021, while in the most recent period (2024-2025) the work type pattern changed significantly, with Remote and Hybrid representing less than 20%, while On-site jobs revealed how representative it is right now.
 
     > 2020-2021:
-      <img width="1828" height="827" alt="2020_2021" src="https://github.com/user-attachments/assets/3ee98734-1001-40e6-bc01-fc5e4e3a79ab" />
+    
+    <img width="1828" height="827" alt="2020_2021" src="https://github.com/user-attachments/assets/3ee98734-1001-40e6-bc01-fc5e4e3a79ab" />
 
     > 2024-2025:
-      <img width="1801" height="811" alt="2024_2025" src="https://github.com/user-attachments/assets/16b41f79-95fb-45dc-b8b1-4b25187c4f69" />
+    
+    <img width="1801" height="811" alt="2024_2025" src="https://github.com/user-attachments/assets/16b41f79-95fb-45dc-b8b1-4b25187c4f69" />
 
-* 3. Another interesting observation that can be made from the screenshots above is that the average Data Scientist salary kept strong in North America during and after the pandemic, while gained traction in other countries such as South America, and more parts of Europe, Africa and Oceany on post-pandemic period. This information shows how the Data job roles are becoming more relevant year by year.
+
+_* 3. Average Salary Behavior_
+    Another interesting observation that can be made from the screenshots above is that the average Data Scientist salary kept strong in North America during and after the pandemic, while gained traction in other countries such as South America, and more parts of Europe, Africa and Oceany on post-pandemic period. This information shows how the Data job roles are becoming more relevant year by year.
+
+_* 4. Data Distribution_
+    Furthermore, when looking at the histogram from both filtered periods, it can be observed that annual salary distribution for Data workers are right-skewed on both periods, which means that in average they earn amounts between a same range, but a small number of workers earn more than that (also called as outliers), which makes the majority of data to be concentrated on the leftside of the visual and the outliers to fall on the right side long tail.
+    It is also evident that although the distribution is similar, they are not the same due to the values, with the pandemic period ranging from $ 60k to $ 80k annual salaries for Data workers, while in the most recent period (2024-2025) this range is from $ 100k to $ 200k. 
+    It is important to mention that due to those outliers, the average of the salaries may be negatively affected leading to missinterpretation. For solving this problem a normalization could be performed to make the data normal distributed, with the average concentraded in the middle of the histogram.
 
 ---
 
