@@ -102,7 +102,7 @@ df.head()
 
 ---
 
-🖼 ** Dashboard and Insights:**
+## 🖼 Dashboard and Insights:
 
   -- Overview:
 
