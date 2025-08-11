@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/S8Wrwhe.png" alt="Python Data Analysis Event - Alura" width="800" height="200">
-</p>
-
 <h1 align="center">📊 Python Data Analysis Event - Alura</h1>
 
 <p align="center">
@@ -12,20 +7,19 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
-  
-  <a href="https://colab.research.google.com/github/lucianapopa/Python_Data_Analysis_Event_Alura/blob/main/notebooks/Class_01_Data_Analysis_Alura.ipynb">
+
+  <a href="https://colab.research.google.com/github/lucianapopa/Python_Data_Analysis_Event_Alura/blob/main/notebooks/Classes_Alura.ipynb">
     <img src="https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab&logoColor=white" alt="Open in Colab">
   </a>
-  
+
   <img src="https://img.shields.io/github/last-commit/lucianapopa/Python_Data_Analysis_Event_Alura?label=Last%20update&color=brightgreen" alt="Last update">
-  
+
   <a href="https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv">
     <img src="https://img.shields.io/badge/Dataset-salaries.csv-brightgreen" alt="Dataset link">
   </a>
-  
+
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status">
 </p>
-
 
 ---
 
@@ -60,14 +54,10 @@ I explored **data cleaning**, **transformations**, and **visualizations**, and w
 📦 Python_Data_Analysis_Event_Alura  
 
 ├─ app.py # Streamlit app
-
 ├─ requirements.txt # Exact versions for reproducibility
-
 ├─ final-dataset.csv.csv # Processed dataset used by the app (current filename)
-
 ├─ notebooks/ # Colab notebooks
 │ └─ Classes_Alura.ipynb
-
 └─ README.md
 
 ---
@@ -77,12 +67,13 @@ I explored **data cleaning**, **transformations**, and **visualizations**, and w
 You can run this project directly in **Google Colab** — no installation required.
 
 1. **Open the notebook in Google Colab** by clicking the badge below:  
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_NOTEBOOK_LINK_HERE)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianapopa/Python_Data_Analysis_Event_Alura/blob/main/notebooks/Classes_Alura.ipynb)
 
 2. *(Optional)* **Mount Google Drive** if your notebook needs to read/write files:  
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
+
    ```
 
 3. **Dataset used in this project**:  
@@ -118,7 +109,7 @@ df.head()
 
   - Average and maximum salaries are **higher in 2024–2025** than in **2020–2021** (salaries are nominal USD, not inflation-adjusted). 
   
-  - The total record count is much larger in 2024–2025; this may reflect **more rows collected** and does **not necessarily** mean industry headcount growth. Additionaly, trends may also reflect changes in the sample mix (countries, roles, company sizes) across periods, not just time.
+  - The total record count is much larger in 2024–2025; this may reflect **more rows collected** and does **not necessarily** mean industry headcount growth. Additionally, trends may also reflect changes in the sample mix (countries, roles, company sizes) across periods, not just time.
   
   - The most common job position **shifts** from **Data Scientist** (2020–2021) to **Software Engineer** (2024–2025).
   
@@ -160,7 +151,7 @@ df.head()
   
   - Because of the right tail, the **mean (average) is pulled upward**. Therefore, the median better represents a typical salary than the mean.
   
-  - When comparing the two periods, we mjust keep x-axis limits and bin width the same, otherwise apparent differences can be due to scale, not distribution changes.
+  - When comparing the two periods, we must keep x-axis limits and bin width the same, otherwise apparent differences can be due to scale, not distribution changes.
 
 ---
 
