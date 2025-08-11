@@ -113,11 +113,13 @@ df.head()
 
 -- Insights:
 
-  When analysing the overall available information regarding salary and work information in Data field, some insighfull aspects can be observed if analysing the pandemic to the most recent period:
+  When analysing the overall available information regarding salary and work information in data field, some insightful trends can be observed if analysing the pandemic (2020-2021) to the most recent period (2024-2025):
 
-_* 1. General Metrics_
+  _1. General Metrics (Annual Salary, USD)_
 
-  The General Metrics shows that during pandemic (2020-2021) the average salary and maximum salary were far lower than during the most recent period (2024-2025). The total amount of data records increased steadely showing how the data field gained new workers during a 5-6 year period. Also, it is possible to see that the most common job position changed during this period, with Data Scientist being more common during pandemic, and Software Engineer on most recent term. In addition, it is interesting to highlight that during the whole term available (2020-2025), the most commom job position is Data Scientist.
+  Average and maximum salaries are **higher in 2024–2025** than in **2020–2021** (salaries are nominal USD, not inflation-adjusted).  
+  The total record count is much larger in 2024–2025; this may reflect **more rows collected** and does **not necessarily** mean industry headcount growth. Additionaly, trends may also reflect changes in the sample mix (countries, roles, company sizes) across periods, not just time.
+  The most common job position **shifts** from **Data Scientist** (2020–2021) to **Software Engineer** (2024–2025).
 
 
   > 2020-2021:
@@ -129,9 +131,10 @@ _* 1. General Metrics_
   <img width="1650" height="179" alt="2024-2025" src="https://github.com/user-attachments/assets/cb973148-2980-4478-ab0f-e80cc59f722d" />
 
 
-_* 2. Work Type_
+  _2. Work Type_
   
-   Comparing the work types it is possible to see that the majority of jobs were Remote (51.9%) or Hybrid (32%) during the pandemic period of 2020-2021, while in the most recent period (2024-2025) the work type pattern changed significantly, with Remote and Hybrid representing less than 20%, while On-site jobs revealed how representative it is right now.
+  In **2020–2021**, most roles were **Remote (~52%)** or **Hybrid (~32%)**.  
+  In **2024–2025**, **On-site** becomes the majority, while **Remote + Hybrid** together drop below 20%.  
 
   > 2020-2021:
     
@@ -142,15 +145,16 @@ _* 2. Work Type_
    <img width="1801" height="811" alt="2024_2025" src="https://github.com/user-attachments/assets/16b41f79-95fb-45dc-b8b1-4b25187c4f69" />
 
 
-_* 3. Average Salary Behavior_
+  _3. Geography (Average Salary Behavior per Country)_
 
-  Another interesting observation that can be made from the screenshots above is that the average Data Scientist salary kept strong in North America during and after the pandemic, while gained traction in other countries such as South America, and more parts of Europe, Africa and Oceany on post-pandemic period. This information shows how the Data job roles are becoming more relevant year by year.
+  **North America** remains high in both periods. In the recent period, higher averages also **appear** in parts of **South America, Europe, Africa, and Oceania** in this sample.  
+  White areas on the map indicate **no data**; comparisons should be cautious.
 
-_* 4. Data Distribution_
+  _4. Salary Distribution_
 
-  Furthermore, when looking at the histogram from both filtered periods, it can be observed that annual salary distribution for Data workers are right-skewed on both periods, which means that in average they earn amounts between a same range, but a small number of workers earn more than that (also called as outliers), which makes the majority of data to be concentrated on the leftside of the visual and the outliers to fall on the right side long tail.
-   It is also evident that although the distribution is similar, they are not the same due to the values, with the pandemic period ranging from $ 60k to $ 80k annual salaries for Data workers, while in the most recent period (2024-2025) this range is from $ 100k to $ 200k. 
-  It is important to mention that due to those outliers, the average of the salaries may be negatively affected leading to missinterpretation. For solving this problem a normalization could be performed to make the data normal distributed, with the average concentraded in the middle of the histogram.
+  In both periods, salaries are **right-skewed**: most values fall in a lower band, with a **small number of very high earners** stretching the right tail ('outliers').  
+  Most salaries fall between **$60k–$120k** in **2020–2021**, and **$100k–$200k** in **2024–2025**.  
+  Because of the right tail, the **mean (average) is pulled upward**. Therefore, the median better represents a typical salary than the mean.
 
 ---
 
