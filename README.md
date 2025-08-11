@@ -16,6 +16,10 @@
     <img src="https://img.shields.io/badge/Dataset-salaries.csv-brightgreen" alt="Dataset link">
   </a>
 
+  <a href="https://python-data-analysis-event-alura.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20App-Streamlit-ff4b4b?logo=streamlit&logoColor=white" alt="Live Streamlit App">
+</a>
+
   <img src="https://img.shields.io/badge/Status-Concluded-brightgreen" alt="Status: Concluded">
 
   <img src="https://img.shields.io/github/last-commit/lucianapopa/Python_Data_Analysis_Event_Alura?label=Last%20update&color=brightgreen" alt="Last update">
