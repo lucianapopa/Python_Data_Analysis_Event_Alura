@@ -57,10 +57,15 @@ I explored **data cleaning**, **transformations**, and **visualizations**, and w
 📦 Python_Data_Analysis_Event_Alura  
 
 ├─ app.py # Streamlit app
+
 ├─ requirements.txt # Exact versions for reproducibility
+
 ├─ final-dataset.csv.csv # Processed dataset used by the app (current filename)
+
 ├─ notebooks/ # Colab notebooks
+
 │ └─ Classes_Alura.ipynb
+
 └─ README.md
 
 ---
