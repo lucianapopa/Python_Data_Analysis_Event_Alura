@@ -12,14 +12,13 @@
     <img src="https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab&logoColor=white" alt="Open in Colab">
   </a>
 
-  <img src="https://img.shields.io/github/last-commit/lucianapopa/Python_Data_Analysis_Event_Alura?label=Last%20update&color=brightgreen" alt="Last update">
-
   <a href="https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv">
     <img src="https://img.shields.io/badge/Dataset-salaries.csv-brightgreen" alt="Dataset link">
   </a>
 
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status">
-</p>
+  <img src="https://img.shields.io/badge/Status-Concluded-brightgreen" alt="Status: Concluded">
+
+  <img src="https://img.shields.io/github/last-commit/lucianapopa/Python_Data_Analysis_Event_Alura?label=Last%20update&color=brightgreen" alt="Last update">
 
 ---
 
