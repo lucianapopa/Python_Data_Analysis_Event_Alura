@@ -112,13 +112,25 @@ df.head()
 
 -- Quick Dashboard Insights:
 
-When analysing the overall available information regarding salary and work information in Data field, some insighfull aspects can be observed if analysing the pandemic to the current period:
+When analysing the overall available information regarding salary and work information in Data field, some insighfull aspects can be observed if analysing the pandemic to the most recent period:
 
->> 1. First aspects that can be highlighted are the General Metrics, which shows that during pandemic (2021-2022) the average salary and maximum salary were far lower than during the most recent period (2024-2025). The total amount of data records increased steadely showing how the data field gained new workers during a 5-6 period. Also, it is possible to see that the most common job position also changed during this period, with Data Scientist being more common during pandemic, and Software Engineer on most recent data. In addition, it is interesting to highlight that during the whole period available (2020-2025), the most commom job position is Data Scientist.
+* 1. First aspects that can be highlighted are the General Metrics, which shows that during pandemic (2021-2022) the average salary and maximum salary were far lower than during the most recent period (2024-2025). The total amount of data records increased steadely showing how the data field gained new workers during a 5-6 period. Also, it is possible to see that the most common job position also changed during this period, with Data Scientist being more common during pandemic, and Software Engineer on most recent data. In addition, it is interesting to highlight that during the whole period available (2020-2025), the most commom job position is Data Scientist.
 
->> 2. Comparing the work types it is possible to see that the majority of jobs were Remote (51.9%) or Hybrid (32%) during the pandemic period of 2020-2021, while in the most recent period (2024-2025) the work type pattern changed significantly, with Remote and Hybrid representing less than 20%, while On-site jobs revealed how representative it is right now.
+  > 2020-2021:
+    <img width="1613" height="187" alt="2020-2021" src="https://github.com/user-attachments/assets/38d2c9b2-4055-4642-90fe-99414b4cd020" />
 
->> 3. Another interesting observation that can be made is that the average Data Scientist salary kept strong in North America during the pandemic, while gained traction in other coutnries such as South America, and more parts of Europe, Africa and Oceany.
+  > 2024-2025:
+    <img width="1650" height="179" alt="2024-2025" src="https://github.com/user-attachments/assets/cb973148-2980-4478-ab0f-e80cc59f722d" />
+
+* 2. Comparing the work types it is possible to see that the majority of jobs were Remote (51.9%) or Hybrid (32%) during the pandemic period of 2020-2021, while in the most recent period (2024-2025) the work type pattern changed significantly, with Remote and Hybrid representing less than 20%, while On-site jobs revealed how representative it is right now.
+
+    > 2020-2021:
+      <img width="1828" height="827" alt="2020_2021" src="https://github.com/user-attachments/assets/3ee98734-1001-40e6-bc01-fc5e4e3a79ab" />
+
+    > 2024-2025:
+      <img width="1801" height="811" alt="2024_2025" src="https://github.com/user-attachments/assets/16b41f79-95fb-45dc-b8b1-4b25187c4f69" />
+
+* 3. Another interesting observation that can be made from the screenshots above is that the average Data Scientist salary kept strong in North America during the pandemic, while gained traction in other coutnries such as South America, and more parts of Europe, Africa and Oceany.
 
 ---
 
