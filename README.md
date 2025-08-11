@@ -104,7 +104,7 @@ df.head()
 
 🖼 **Screenshots / Results:**
 
-<img width="677" height="450" alt="newplot (4)" src="https://github.com/user-attachments/assets/07ffe00b-6abf-4d29-a38a-345db33a14de" />
+<img width="701" height="869" alt="Captura de tela 2025-08-11 141129" src="https://github.com/user-attachments/assets/06e5eaee-cc7c-48c4-b658-c047af7e3755" />
 
 ---
 
