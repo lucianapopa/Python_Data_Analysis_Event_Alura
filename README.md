@@ -101,15 +101,39 @@ df.head()
 
 ---
 
-## 📊 Dashboard:
+## 📓 Notebook Highlights
 
-**🧭 Dashboard Overview:**
+- In this section I include a few key visuals produced in Google Colab analysing the data for the whole period (2020-2025) before building the Streamlit dashboard on VS Code. The values shown are **nominal USD**.
+
+**_1. Avg. Data Scientist Wage by Country_**
+
+  - North America is highest, some Western Europe and Oceania countries also show higher averages. White/blank regions indicate **no data**. Country differences should be read cautiously due to **uneven sample sizes**.
+
+  <p> <img width="1413" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/ac3ca91b-3816-4288-a672-8bc9ec9884fe" /> </p>
+
+**_2. Work Type Proportion_**
+
+  - On-site roles dominate (~80%), Hybrid is ~21%, and Remote has a very small share.
+
+  <p> <img width="1413" height="525" alt="newplot" src="https://github.com/user-attachments/assets/9229cb41-1851-4413-9a65-d4c046c3b851" /> </p> 
+
+**_3. Salary Boxplot_**
+
+  - Salaries are **right-skewed**, with a long right tail and many high-end outliers (up to ~$800k). The mean is pulled upward.
+
+  <p> <img width="644" height="470" alt="boxplot_googlecolab" src="https://github.com/user-attachments/assets/75b68405-a209-4992-a52a-b68c044e8d4c" /> </p> 
+
+---
+
+## 📊 Dashboard
+
+**🧭 Dashboard Overview**
 
  🔗 [Salary Analysis Dashboard in the Data Field](https://python-data-analysis-event-alura.streamlit.app/)
        
   <p> <img width="701" height="869" alt="Captura de tela 2025-08-11 141129" src="https://github.com/user-attachments/assets/06e5eaee-cc7c-48c4-b658-c047af7e3755" /> </p>
 
-**💭 Dashboard Insights:**
+**💭 Dashboard Insights**
 
 - When analysing the overall available information regarding salary and work information in data field, some insightful trends can be observed if analysing the pandemic (2020-2021) to the most recent period (2024-2025):
 
