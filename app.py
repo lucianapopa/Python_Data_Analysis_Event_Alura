@@ -29,9 +29,9 @@ contract_map = {
 }
 
 size_map = {
-    "s": "Small (1–50)",   "small": "Small (1–50)",
-    "m": "Medium (51–250)","medium": "Medium (51–250)",
-    "l": "Large (251–1000)","large": "Large (251–1000)"
+    "small": "Small",
+    "medium": "Medium",
+    "large": "Large"
 }
 
 # --- Sidebar (Filters) ---
@@ -186,4 +186,5 @@ with col_graf4:
 # --- Detailed Data Table ---
 # This section displays the filtered DataFrame in a table format for detailed analysis.
 st.subheader("Detailed Data Table")
+
 st.dataframe(df_filtered)
