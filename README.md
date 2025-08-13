@@ -114,13 +114,13 @@ df.head()
 
   - North America is highest, some Western Europe and Oceania countries also show higher averages. White/blank regions indicate **no data**. Country differences should be read cautiously due to **uneven sample sizes**.
 
-  <p> <img width="1413" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/ac3ca91b-3816-4288-a672-8bc9ec9884fe" /> </p>
+  <p> <img width="837" height="525" alt="newplot (2)" src="https://github.com/user-attachments/assets/91253cf6-c366-4b25-8f99-4555f076e463" /> </p>
 
 **_2. Work Type Proportion_**
 
   - On-site roles dominate (~80%), Hybrid is ~21%, and Remote has a very small share.
 
-  <p> <img width="1413" height="525" alt="newplot" src="https://github.com/user-attachments/assets/9229cb41-1851-4413-9a65-d4c046c3b851" /> </p> 
+  <p> <img width="671" height="525" alt="newplot (3)" src="https://github.com/user-attachments/assets/8c549383-0736-4eeb-8432-749998bb4cbf" /> </p> 
 
 **_3. Salary Boxplot_**
 
