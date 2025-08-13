@@ -74,7 +74,7 @@ I explored **data cleaning**, **transformations**, and **visualizations**, and w
 
 ## 💡 How to Run (Google Colab)
 
-You can run this project directly in **Google Colab** — no installation required.
+You can run this project directly in **Google Colab** - no installation required.
 
 1. **Open the notebook in Google Colab** by clicking the badge below:  
    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianapopa/Python_Data_Analysis_Event_Alura/blob/main/notebooks/Classes_Alura.ipynb)
@@ -87,9 +87,9 @@ You can run this project directly in **Google Colab** — no installation requir
    ```
 
 3. **Dataset used in this project**:  
-Source: Data Jobs — salaries.csv
+Source: Data Jobs - salaries.csv
 
-Processed file used by the app: final-dataset.csv
+Processed file used by the app: final-dataset_GoogleColab
 Please review the original license/terms of use from the source.
 
 **Load directly in Python:**
