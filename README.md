@@ -136,7 +136,7 @@ df.head()
 
  🔗 [Salary Analysis Dashboard in the Data Field](https://python-data-analysis-event-alura.streamlit.app/)
        
-  <p> <img width="701" height="869" alt="Captura de tela 2025-08-11 141129" src="https://github.com/user-attachments/assets/06e5eaee-cc7c-48c4-b658-c047af7e3755" /> </p>
+  <p> <img width="603" height="904" alt="Captura de tela 2025-08-13 141252" src="https://github.com/user-attachments/assets/788b94ff-a3bc-465f-a017-618238fa27cf" /> </p>
 
 **💭 Dashboard Insights**
 
@@ -162,17 +162,17 @@ df.head()
 
 **_2. Work Type_**
   
-  - In **2020–2021**, most roles were **Remote (~52%)** or **Hybrid (~32%)**.  
+  - In **2020–2021**, most roles were **Hybrid (~52%)** or **Remote (~32%)**.  
   
   - In **2024–2025**, **On-site** becomes the majority, while **Remote + Hybrid** together drop below 20%.  
 
 > _2020-2021:_
     
-  <p> <img width="1828" height="827" alt="2020_2021" src="https://github.com/user-attachments/assets/3ee98734-1001-40e6-bc01-fc5e4e3a79ab" /> </p>
+  <p> <img width="3865" height="1925" alt="2020-2021" src="https://github.com/user-attachments/assets/f7be97e1-35f5-4583-bca6-6412f43936d5" /> </p>
 
 > _2024-2025:_
     
-   <p> <img width="1801" height="811" alt="2024_2025" src="https://github.com/user-attachments/assets/16b41f79-95fb-45dc-b8b1-4b25187c4f69" /> </p>
+   <p> <img width="3837" height="1903" alt="2024-2025" src="https://github.com/user-attachments/assets/c7aac2d4-9173-4068-b870-638041fdc9a2" /> </p>
 
 **_3. Geography (Average Salary Behavior per Country)_**
 
