@@ -62,7 +62,7 @@ I explored **data cleaning**, **transformations**, and **visualizations**, and w
 
 ├─ requirements.txt # Exact versions for reproducibility
 
-├─ final-dataset.csv.csv # Processed dataset used by the app (current filename)
+├─ final-dataset_GoogleColab.csv # Processed dataset created using Google Colab and used by the app
 
 ├─ notebooks/ # Colab notebooks
 
