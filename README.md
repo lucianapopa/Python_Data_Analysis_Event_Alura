@@ -86,17 +86,19 @@ You can run this project directly in **Google Colab** - no installation required
 
    ```
 
-3. **Dataset used in this project**:  
-Source: Data Jobs - salaries.csv
+3. **Original dataset used in this project**:  
+Source: Data Jobs - salaries.csv. Provided by Alura as part of this learning event. Original data source not known.
+
 
 **Load directly in Python:**
 
 python
 
 import pandas as pd
-url = "https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv"
+url = "https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv" 
 df = pd.read_csv(url)
 df.head()
+
 
 
 4. **Run the cells step-by-step** following the notebook instructions.
