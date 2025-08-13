@@ -114,19 +114,19 @@ df.head()
 
   - North America is highest, some Western Europe and Oceania countries also show higher averages. White/blank regions indicate **no data**. Country differences should be read cautiously due to **uneven sample sizes**.
 
-  <p> <img width="837" height="525" alt="newplot (2)" src="https://github.com/user-attachments/assets/91253cf6-c366-4b25-8f99-4555f076e463" /> </p>
+  <p> <img width="782" height="416" alt="newplot (2)" src="https://github.com/user-attachments/assets/31d2c356-f1ac-4c82-9a52-b7f6fddb06f2" /> </p>
 
 **_2. Work Type Proportion_**
 
   - On-site roles dominate (~80%), Hybrid is ~21%, and Remote has a very small share.
 
-  <p> <img width="671" height="525" alt="newplot (3)" src="https://github.com/user-attachments/assets/8c549383-0736-4eeb-8432-749998bb4cbf" /> </p> 
+  <p> <img width="639" height="427" alt="newplot (3)" src="https://github.com/user-attachments/assets/c2838d25-4675-477a-bc70-7e261f96f5ad" /> </p> 
 
 **_3. Salary Boxplot_**
 
   - Salaries are **right-skewed**, with a long right tail and many high-end outliers (up to ~$800k). The mean is pulled upward.
 
-  <p> <img width="644" height="470" alt="boxplot_googlecolab" src="https://github.com/user-attachments/assets/75b68405-a209-4992-a52a-b68c044e8d4c" /> </p> 
+  <p> <img width="790" height="575" alt="Captura de tela 2025-08-13 144931" src="https://github.com/user-attachments/assets/0cab6964-51da-4854-9c4f-3753b0cbb605" /> </p> 
 
 ---
 
@@ -168,11 +168,11 @@ df.head()
 
 > _2020-2021:_
     
-  <p> <img width="3865" height="1925" alt="2020-2021" src="https://github.com/user-attachments/assets/f7be97e1-35f5-4583-bca6-6412f43936d5" /> </p>
+  <p> <img width="3638" height="1867" alt="2020-2021" src="https://github.com/user-attachments/assets/58e4d1fb-cf3d-45e4-b5ff-4760f7b93c33" /> </p>
 
 > _2024-2025:_
     
-   <p> <img width="3837" height="1903" alt="2024-2025" src="https://github.com/user-attachments/assets/c7aac2d4-9173-4068-b870-638041fdc9a2" /> </p>
+   <p> <img width="3638" height="1905" alt="2024-2025" src="https://github.com/user-attachments/assets/8f94fbca-8607-48eb-82f0-620489c6e85d" /> </p>
 
 **_3. Geography (Average Salary Behavior per Country)_**
 
