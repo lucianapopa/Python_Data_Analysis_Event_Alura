@@ -89,9 +89,6 @@ You can run this project directly in **Google Colab** - no installation required
 3. **Dataset used in this project**:  
 Source: Data Jobs - salaries.csv
 
-Processed file used by the app: final-dataset_GoogleColab
-Please review the original license/terms of use from the source.
-
 **Load directly in Python:**
 
 python
@@ -134,7 +131,9 @@ df.head()
 
 **🧭 Dashboard Overview**
 
- 🔗 [Salary Analysis Dashboard in the Data Field](https://python-data-analysis-event-alura.streamlit.app/)
+ 🔗 Access Link: [Salary Analysis Dashboard in the Data Field](https://python-data-analysis-event-alura.streamlit.app/)
+
+ ℹ️ Dataset used for Dashboard creation: [final-dataset_GoogleColab](https://raw.githubusercontent.com/lucianapopa/Python_Data_Analysis_Event_Alura/main/final-dataset_GoogleColab.csv)
        
   <p> <img width="603" height="904" alt="Captura de tela 2025-08-13 141252" src="https://github.com/user-attachments/assets/788b94ff-a3bc-465f-a017-618238fa27cf" /> </p>
 
